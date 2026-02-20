@@ -1,5 +1,3 @@
-// retryPromise.js
-
 export const retryPromise = async (fn, retries, delay) => {
   try {
     return await fn();

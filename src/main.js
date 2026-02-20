@@ -1,4 +1,4 @@
-// main.js
+
 import {
   fetchProductCatalog,
   fetchProductReviews,
